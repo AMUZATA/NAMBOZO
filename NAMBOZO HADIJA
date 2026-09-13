@@ -9,18 +9,16 @@
 <nav>
     <a href="index.html">HOME</a>
     <a href="about.html">ABOUT US</a>
-    <a href="academics.html">ACADEMICS</a>
-    <a href="admission.hret">ADMISSIONS</a>
-    <a href="school-life.html">SCHOOL LIFE</a>
-    <a href="news-events.html">NEWS AND EVENTS</a>
+    <a href="services.html">SERVICES</a>
     <a href="contact.html">CONTACT US</a>
 </nav>
 <body>
     <header>
-        <div class="logo">
-                    <img src="SCREENSHOTS/download (2).jpg" alt="School Logo">
-        </div>
         <h1>BUKONDE SECONDARY SCHOOL</h1>
+        <div class="logo">
+                    <img src="download (2).jpg" alt="School Logo">
+        </div>
+        
         <h2>WELCOME TO BUKONDE VIBRANT COMMUNITY</h2>
     </header>
     <main>
@@ -33,8 +31,7 @@
             <p>Fax: +256774928433</p>
         </section>
         <section class="images">
-            <img src="./SCREENSHOTS/download (3).jpg" alt="School Gate">
-            <img src="school_building.jpg" alt="School Building">
+            <img src="download (3).jpg" alt="School Gate">
         </section>
     </main>
     <style>
